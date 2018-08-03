@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodingExercises</string>
+    <string name="errormessage">Sorry Unable to get Data from the github try again later</string>
+</resources>
